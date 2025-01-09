@@ -3,7 +3,7 @@
 </div>
 <img src="./banner.jpg"  alt="banner about me">
 
-![Amante del Café](https://img.shields.io/badge/-☕%20Amante%20del%20café-violet?style=flat)
+![Amante del Café](https://img.shields.io/badge/-☕%20Amante%20del%20café-purple?style=flat)
 ![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-yellow?style=flat)
 ![tiktok](https://img.shields.io/badge/ale02code-black?logo=tiktok)
 
