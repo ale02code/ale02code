@@ -5,6 +5,7 @@
 
 ![Amante del Café](https://img.shields.io/badge/-☕%20Amante%20del%20café-brown?style=flat)
 ![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-blue?style=flat)
+![tiktok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)
 
 ## Sobre mi
 
