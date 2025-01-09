@@ -14,3 +14,8 @@
 - Backend: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 - Base de datos: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 - Herramientas: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ChristopherChacon&show_icons=true&theme=radical)
+
+![Amante del Café](https://img.shields.io/badge/-☕%20Amante%20del%20café-brown?style=flat)
+![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-blue?style=flat)
