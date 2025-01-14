@@ -17,7 +17,8 @@
  
 ## ⚒️ Tecnologías y Herramientas
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <p>JavaScript</p>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+  ...
+</p>
