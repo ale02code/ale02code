@@ -5,7 +5,7 @@
 
 ![Amante del Café](https://img.shields.io/badge/-☕%20Amante%20del%20café-purple?style=flat)
 ![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-yellow?style=flat)
-[![tiktok](https://img.shields.io/badge/ale02code-black?logo=tiktok)](https://www.tiktok.com/@ale02code)
+[![tiktok](https://img.shields.io/badge/devenvironment-black?logo=tiktok)](https://www.tiktok.com/@ale02code)
 
 ## Sobre mi
 
