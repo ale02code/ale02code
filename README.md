@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 Programador Web
 - 💾 Amante de la tecnologia
-- 🎥 Te enseño recursos interesantes [TikTok](https://www.tiktok.com/@ale02code)
+- 🎥 Te enseño recursos interesantes [TikTok](https://www.tiktok.com/@devenvironment)
 <br>
 
  
